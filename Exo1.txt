@@ -1,0 +1,1 @@
+Fichier texte créé avec le module fs (File System) de nodeJs !!!
